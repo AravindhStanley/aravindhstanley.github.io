@@ -5,12 +5,8 @@
   "main": "tailwind.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
     "build": "postcss ./index.css -o ./tailwind.css"
-=======
-    "build": "postcss ./index.css -o ./tailwind.css",
     "watch": "watch 'npm run build:css' ./layouts"
->>>>>>> 52b6496b8177fec8afebfaf65eb57a4eed6f01bb
   },
   "keywords": [],
   "author": "",

@@ -6,6 +6,10 @@ html, body {
     scroll-behavior: smooth;
 }
 
+.contact-text {
+    font-size: larger;
+}
+
 .left-50 {
     left: 50%;
 }
